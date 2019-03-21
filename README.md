@@ -1,0 +1,2 @@
+# stat
+simple statistic formula
